@@ -517,7 +517,6 @@
   <span class="pl-k">return</span> <span class="pl-s1">root</span><span class="pl-kos">;</span>
 <span class="pl-kos">}</span><span class="pl-kos">;</span></pre>
         </div>
-        <p>完整代码请看文件 <a href="https://github.com/biaochenxuying/blog/blob/master/data-structure-and-algorithms/10.%20binary-search-tree.html">binary-search-tree.html </a></p>
         <p>测试过程：</p>
         <div class="highlight highlight-source-js">
           <pre><span class="pl-c">// 测试</span>
