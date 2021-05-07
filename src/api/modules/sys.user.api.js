@@ -2,7 +2,7 @@ import { find, assign } from 'lodash'
 
 const users = [
   { username: '13207895423', password: '123456', uuid: 'uuid-0', name: '皮法' },
-  { username: '14381438', password: '123456', uuid: 'uuid-1', name: '皮法' },
+  { username: '123456', password: '123456', uuid: 'uuid-1', name: '皮法2' },
   { username: 'User0', password: 'User0', uuid: 'uuid-2', name: '云淡风轻' },
   { username: 'User1', password: 'User1', uuid: 'uuid-3', name: '茉莉' },
   { username: 'User2', password: 'User2', uuid: 'uuid-4', name: '一见惊鸿' },

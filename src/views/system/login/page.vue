@@ -73,7 +73,7 @@
               type="info"
               @click="dialogVisible = true"
             >
-              快速选择用户（游客）
+              快速选择用户
             </el-button>
           </div>
         </div>
