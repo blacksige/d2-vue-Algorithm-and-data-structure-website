@@ -12,4 +12,4 @@
 
 ### 内容
 
-![Image text](https://raw.githubusercontent.com/blacksige/d2-vue-Algorithm-and-data-structure-website/main/src/assets/readme/2022-02-18_100916.png)
+![Image text](https://raw.githubusercontent.com/blacksige/d2-vue-Algorithm-and-data-structure-website/main/src/assets/readme/2022-02-18_101016.png)
